@@ -1,16 +1,6 @@
-# audiome
+# AudioMe
 
-A new Flutter project.
+AudioMe is a mobile app that identifies and recognizes music and songs. Similar to the idea of Shazam. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![a logo with headphones and music coming out of it, colours are neon blue and purple  as a logo](https://github.com/user-attachments/assets/cb9cb3ea-974c-4746-9ae3-4c3670b33ee7)
