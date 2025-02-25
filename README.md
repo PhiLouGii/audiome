@@ -2,5 +2,4 @@
 
 AudioMe is a mobile app that identifies and recognizes music and songs. Similar to the idea of Shazam. 
 
-
-![a logo with headphones and music coming out of it, colours are neon blue and purple  as a logo](https://github.com/user-attachments/assets/cb9cb3ea-974c-4746-9ae3-4c3670b33ee7)
+![audiome_splash_screen](https://github.com/user-attachments/assets/3534bbf0-9de3-42bd-8e91-ea7bee6b420f)
